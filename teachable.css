@@ -191,6 +191,7 @@ div ul li a:hover{
 
   .logo {
     margin-left: 20px;
+    height: 30px;
   }
   
   .links {
@@ -212,8 +213,11 @@ div ul li a:hover{
   }
   
   .container1 div h1 {
-    font-size: 50px;
-    margin-bottom: 10px;
+    font-size: 2rem;
+  }
+
+  .container1 div h2 {
+    font-size: 1rem;
   }
 
   .container2 {

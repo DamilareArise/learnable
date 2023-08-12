@@ -284,6 +284,7 @@ div ul li a:hover{
 
   .box1 {
     margin-top: 20px;
+
   }
   
   .box1 h1 {
@@ -296,6 +297,14 @@ div ul li a:hover{
     font-size: 17px;
     padding: 20px;
     text-align: center;
+  }
+
+  .box2 {
+    width: 50vw;
+    height: 45vh;
+  }
+  .box2a {
+    width: 50vw;
   }
 
   footer{
